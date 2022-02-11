@@ -4,7 +4,7 @@
 
 ### I’m an aspiring Python 🐍 and Swift 🦅 developer.
 
-#### 🗄 Public Repositories:
+#### 🗄 [Public GitHub Repositories](https://github.com/valvincent?tab=repositories):
 
 - 🐍 [wordle-brute](https://github.com/valvincent/wordle-brute)
 - 🐍 [wordle-letter-counter](https://github.com/valvincent/wordle-letter-counter)
@@ -17,7 +17,7 @@
 
    - 💻 [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/), Day 46 / 100
    - 📱 [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/), Section 13 / 32
-   - 🦅 [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui), Day 13 / 100
+   - 🦅 [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui), Day 17 / 100
 
 #### 📖 Currently reading:
 
@@ -27,12 +27,12 @@
 
    [The Expanse, season 5](https://www.imdb.com/title/tt3230854/)
 
-#### 💻 Tools:
+#### 🧰 Tools:
 
-- [Xcode](https://developer.apple.com/xcode/)
-- [PyCharm](https://www.jetbrains.com/pycharm/)
-- [Pixelmator Pro](https://www.pixelmator.com/pro/)
-- [Craft](https://www.craft.do/)
+   - [Xcode](https://developer.apple.com/xcode/)
+   - [PyCharm](https://www.jetbrains.com/pycharm/)
+   - [Pixelmator Pro](https://www.pixelmator.com/pro/)
+   - [Craft](https://www.craft.do/)
 
 ---
 
@@ -42,4 +42,5 @@
 
 ---
 
-Updated: 09 Feb 2022
+Updated: 11 Feb 2022
+
