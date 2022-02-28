@@ -8,6 +8,7 @@
 
 - 🐍 [wordle-brute](https://github.com/valvincent/wordle-brute)
 - 🐍 [wordle-letter-counter](https://github.com/valvincent/wordle-letter-counter)
+- 🦅 [randomigo](https://github.com/valvincent/randomigo)
 
 #### ✍️ [Personal blog](https://www.craft.do/s/HB6QVxLpw5uQuL)
 
@@ -17,14 +18,15 @@
 
 - 💻 [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/), Day 46 / 100
 - 📱 [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/), Section 13 / 32
-- 🦅 [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui), Day 19 / 100
+- 🦅 [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui), Day 30 / 100
 
 #### 🧰 Tools:
 
-- [Xcode](https://developer.apple.com/xcode/)
-- [PyCharm](https://www.jetbrains.com/pycharm/)
-- [Pixelmator Pro](https://www.pixelmator.com/pro/)
-- [Craft](https://www.craft.do/)
+- ⌨️ [Xcode](https://developer.apple.com/xcode/)
+- ⌨️ [PyCharm](https://www.jetbrains.com/pycharm/)
+- 🖼 [Pixelmator Pro](https://www.pixelmator.com/pro/)
+- 📚 [Craft](https://www.craft.do/)
+- 🎧 [Endel](https://endel.io/)
 
 #### 📖 Currently reading:
 
@@ -40,6 +42,8 @@
 
 📫 [Email me](mailto:workwithvalvincent@gmail.com?subject=Hello) or DM / follow me on Twitter: [@heyValVincent](https://twitter.com/heyValVincent)
 
+🌏 Find more on my [Linktree](https://linktr.ee/ValVincent)
+
 ----
 
-Updated: 15 Feb 2022
+Updated: 28 Feb 2022
