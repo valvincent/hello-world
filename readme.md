@@ -20,7 +20,7 @@
 
 - 💻 [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/), Day 46 / 100
 - 📱 [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/), Section 13 / 32
-- 🦅 [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui), Day 33 / 100
+- 🦅 [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui), Day 37 / 100
 
 #### 🧰 Tools:
 
@@ -48,4 +48,4 @@
 
 ----
 
-Updated: 01 Mar 2022
+Updated: 04 Mar 2022
