@@ -20,7 +20,7 @@
 
 - 💻 [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/), Day 46 / 100
 - 📱 [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/), Section 13 / 32
-- 🦅 [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui), Day 37 / 100
+- 🦅 [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui), Day 40 / 100
 
 #### 🧰 Tools:
 
@@ -32,7 +32,7 @@
 
 #### 📖 Currently reading:
 
-[Babylon's Ashes (The Expanse 6) by James S.A. Corey](https://www.goodreads.com/book/show/25877663-babylon-s-ashes)
+[The Hunger of the Gods by John Gwynne](https://www.goodreads.com/book/show/57341045)
 
 #### 📺 Currently watching:
 
@@ -42,10 +42,11 @@
 
 #### Keep me in mind if you know of any iOS or Python career opportunities.
 
-📫 [Email me](mailto:workwithvalvincent@gmail.com?subject=Hello) or DM / follow me on Twitter: [@heyValVincent](https://twitter.com/heyValVincent)
+📫 [Email me](mailto:workwithvalvincent@gmail.com?subject=Hello) or DM / follow me on [Twitter](https://twitter.com/heyValVincent) and <a rel="me" href="https://mastodon.online/@valvincent">Mastodon</a>.
 
 🌏 Find more on my [Linktree](https://linktr.ee/ValVincent)
 
 ----
 
-Updated: 04 Mar 2022
+Updated: 27 Apr 2022
+
