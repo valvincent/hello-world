@@ -12,8 +12,6 @@
 
 #### 🗄 [Public Gists](https://gist.github.com/valvincent/)
 
-#### ✍️ [Personal blog](https://www.craft.do/s/HB6QVxLpw5uQuL)
-
 ----
 
 #### 👨‍💻 Currently learning:
@@ -38,15 +36,20 @@
 
 [The Expanse, season 5](https://www.imdb.com/title/tt3230854/)
 
+#### ✍️ Blogs:
+
+- [Personal](https://www.craft.do/s/HB6QVxLpw5uQuL)
+- [Stoicism micro-blog](https://mastodon.online/@dailystoicism)
+
 ----
 
 #### Keep me in mind if you know of any iOS or Python career opportunities.
 
-📫 [Email me](mailto:workwithvalvincent@gmail.com?subject=Hello) or DM / follow me on [Twitter](https://twitter.com/heyValVincent) and <a rel="me" href="https://mastodon.online/@valvincent">Mastodon</a>.
+📫 [Email me](mailto:workwithvalvincent@gmail.com?subject=Hello) or DM / follow me on [Twitter](https://twitter.com/heyValVincent) and [Mastodon](https://mastodon.social/@valvincent).
 
 🌏 Find more on my [Linktree](https://linktr.ee/ValVincent)
 
 ----
 
-Updated: 27 Apr 2022
+Updated: 10 May 2022
 
