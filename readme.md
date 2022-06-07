@@ -16,9 +16,9 @@
 
 #### 👨‍💻 Currently learning:
 
-- 💻 [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/), Day 46 / 100
-- 📱 [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/), Section 13 / 32
-- 🦅 [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui), Day 40 / 100
+- 💻 [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/)
+- 📱 [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+- 🦅 [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 
 #### 🧰 Tools:
 
@@ -27,14 +27,6 @@
 - 🖼 [Pixelmator Pro](https://www.pixelmator.com/pro/)
 - 📚 [Craft](https://www.craft.do/)
 - 🎧 [Endel](https://endel.io/)
-
-#### 📖 Currently reading:
-
-[The Hunger of the Gods by John Gwynne](https://www.goodreads.com/book/show/57341045)
-
-#### 📺 Currently watching:
-
-[The Expanse, season 5](https://www.imdb.com/title/tt3230854/)
 
 #### ✍️ Blogs:
 
@@ -51,5 +43,4 @@
 
 ----
 
-Updated: 10 May 2022
-
+Updated: 7 June 2022
